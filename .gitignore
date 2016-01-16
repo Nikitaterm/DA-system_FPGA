@@ -1,0 +1,15 @@
+# ignore Quartus II generated files
+*.bsf
+*.txt
+*.qip
+*.ppf
+*.bsf
+*.qws
+
+# ignore Quartus II generated folders
+db/
+greybox_tmp/
+incremental_db/
+output_files/
+simulation/
+
